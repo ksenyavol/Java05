@@ -1,0 +1,7 @@
+addNumber("Petrov", "9999876767", phone_number);
+addNumber("Petrov", "9877877766", phone_number);
+addNumber("Ivanov", "9876545433", phone_number);
+addNumber("Petrov", "9976765566", phone_number);
+addNumber("Ivanov", "9932343222", phone_number);
+addNumber("Davidov", "9999767655", phone_number)
+
